@@ -1,2 +1,5 @@
 Jira Spring Test
-#Spring Test Project\n##Project Details
+
+# Spring Test Project
+
+## Project Details
